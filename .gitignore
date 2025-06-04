@@ -6,3 +6,13 @@ node_modules
 .dev.vars
 
 .wrangler
+/.vscode
+/.idea
+/.DS_Store
+/.eslintcache
+/.prettierignore
+/.prettierrc
+/.stylelintcache
+/.stylelintrc
+/node_modules
+/.cache-loader
