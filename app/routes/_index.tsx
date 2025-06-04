@@ -14,6 +14,7 @@ export default function Index() {
       <p>
         This is a starter template for a new Remix application. You can start
         building your app from here.
+        XYZ 
       </p>
     </div>
   );
